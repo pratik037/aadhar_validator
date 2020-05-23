@@ -2,7 +2,7 @@
 
 Demonstrates how to use the aadhar_validator plugin.
 
-![Web access url](tinyurl.com/validateAadhar)
+[Web access url](tinyurl.com/validateAadhar) <br>
 Web deployment status: [![Netlify Status](https://api.netlify.com/api/v1/badges/16ec74b3-2f28-4589-b172-c5efe15ca0f6/deploy-status)](https://app.netlify.com/sites/flamboyant-bell-0bd1ca/deploys)
 
 ## Getting Started
