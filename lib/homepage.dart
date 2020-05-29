@@ -97,6 +97,7 @@ class _HomePageState extends State<HomePage> {
                           width: 300,
                           // color: Colors.red,
                           child: TextField(
+                            maxLength: 12,
                             keyboardType: TextInputType.number,
                             decoration: InputDecoration(
                               labelText: 'Enter the 12 digit aadhar number',
